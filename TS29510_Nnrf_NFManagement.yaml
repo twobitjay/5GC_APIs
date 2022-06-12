@@ -7,6 +7,7 @@ info:
     NRF NFManagement Service.  
     © 2022, 3GPP Organizational Partners (ARIB, ATIS, CCSA, ETSI, TSDSI, TTA, TTC).  
     All rights reserved.
+  author: Dhanapal Jayapandi @ Amdocs Inc.
 
 externalDocs:
   description: 3GPP TS 29.510 V17.5.0; 5G System; Network Function Repository Services; Stage 3
@@ -16,7 +17,7 @@ servers:
   - url: '{apiRoot}/nnrf-nfm/v1'
     variables:
       apiRoot:
-        default: https://example.com
+        default: https://nrf000.amdocs.5g-demo.com
         description: apiRoot as defined in clause 4.4 of 3GPP TS 29.501
 
 security:
