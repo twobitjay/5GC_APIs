@@ -6,7 +6,7 @@ info:
   description: |
     NRF NFManagement Service 
     © 2022, 3GPP Organizational Partners (ARIB, ATIS, CCSA, ETSI, TSDSI, TTA, TTC).  
-    Author: Dhanapal Jayapandi @ Amdocs Inc.
+    Dhanapal Jayapandi @ Amdocs Inc.
 
 externalDocs:
   description: 3GPP TS 29.510 V17.5.0; 5G System; Network Function Repository Services; Stage 3
